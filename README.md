@@ -152,8 +152,8 @@ Check-in successful - Status: PRESENT
 
 | Name | Student ID | Modules Implemented | Notes |
 |------|------------|---------------------|-------|
-| Yong Hwa King | 700051531 | main.c students.c, student.h | Student data loading, validation, binary storage |
+| Yong Hwa King | 700051531 | student.c / student.h(feature 2) | Imlemented automatic creation of students.dat, schedule progress checks |
 | Matthias Leong Yong Kiang | | students.c student.h, makefile| Schedule loading, validation, binary storage |
-| Kelven Tan Kai Wen | 700052260 | attendance.c, attendance.h | Check-in logic, duplicate prevention, persistence |
-| Aaron | | schedule.c schedule.h | All report and administrative commands |
-| Chris | | reports.c, reports.h | Command-line parsing, program entry point, build system |
+| Kelven Tan Kai Wen | 700052260 | attendance.c / attendance.h | Implemented check-in logic, duplicate prevention, attendance persistence and status detection (PRESENT / LATE / REJECTED) |
+| Christopher Wee Tian Ci | 700051770 | reports.c / README.md | Implemented reporting system, CSV export, date-filtered reports, and project documentation |
+| Aron Lee Siew Ho| 700053800  | schedule.c and textevidence.pdf  | Schedule management, active class checking, time validation and system integration  |
