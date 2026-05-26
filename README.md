@@ -153,7 +153,7 @@ Check-in successful - Status: PRESENT
 | Name | Student ID | Modules Implemented | Notes |
 |------|------------|---------------------|-------|
 | Yong Hwa King | 700051531 | student.c / student.h(feature 2) | Imlemented automatic creation of students.dat, schedule progress checks |
-| Matthias Leong Yong Kiang | | students.c student.h, makefile| Schedule loading, validation, binary storage |
-| Kelven Tan Kai Wen | 700052260 | attendance.c / attendance.h | Implemented check-in logic, duplicate prevention, attendance persistence and status detection (PRESENT / LATE / REJECTED) |
+|Matthias Yong Leong Kiang |700052739 | student.c / student.h(feature 1) |Read the file of student and make sure studentID is  not duplicate and email must contain '@|
+| Kelven Tan Kai Wen | 700052260 | attendance.c / attendance.h (feature 4) | Implemented check-in logic, duplicate prevention, attendance persistence and status detection (PRESENT / LATE / REJECTED) |
 | Christopher Wee Tian Ci | 700051770 | reports.c / README.md | Implemented reporting system, CSV export, date-filtered reports, and project documentation |
 | Aron Lee Siew Ho| 700053800  | schedule.c and textevidence.pdf  | Schedule management, active class checking, time validation and system integration  |
